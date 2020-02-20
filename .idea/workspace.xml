@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f476a50-fe68-485f-be19-d8d27c6c6cd4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y2CoMcm0oNG9hiPcRlHvvuak2a" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="testCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hinh.testCircle" />
+      <module name="Lớp Circle và lớp Cylinder" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hinh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.testCircle" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f476a50-fe68-485f-be19-d8d27c6c6cd4" name="Default Changelist" comment="" />
+      <created>1582131475056</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582131475056</updated>
+      <workItem from="1582131476669" duration="572000" />
+      <workItem from="1582132086975" duration="486000" />
+      <workItem from="1582132816832" duration="296000" />
+      <workItem from="1582133170011" duration="16000" />
+      <workItem from="1582133215696" duration="81000" />
+      <workItem from="1582133302529" duration="1000" />
+      <workItem from="1582133352160" duration="172000" />
+      <workItem from="1582162944088" duration="240000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="598" y="75" key="#com.intellij.ide.util.MemberChooser" timestamp="1582132873311">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state x="598" y="75" key="#com.intellij.ide.util.MemberChooser/0.23.1280.723@0.23.1280.723" timestamp="1582132873311" />
+    <state width="927" height="176" key="GridCell.Tab.0.bottom" timestamp="1582163360336">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="927" height="176" key="GridCell.Tab.0.bottom/0.23.1280.723@0.23.1280.723" timestamp="1582163360336" />
+    <state width="927" height="176" key="GridCell.Tab.0.center" timestamp="1582163360335">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="927" height="176" key="GridCell.Tab.0.center/0.23.1280.723@0.23.1280.723" timestamp="1582163360335" />
+    <state width="927" height="176" key="GridCell.Tab.0.left" timestamp="1582163360335">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="927" height="176" key="GridCell.Tab.0.left/0.23.1280.723@0.23.1280.723" timestamp="1582163360335" />
+    <state width="927" height="176" key="GridCell.Tab.0.right" timestamp="1582163360336">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="927" height="176" key="GridCell.Tab.0.right/0.23.1280.723@0.23.1280.723" timestamp="1582163360336" />
+  </component>
+</project>
